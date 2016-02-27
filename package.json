@@ -1,0 +1,13 @@
+{
+  "name": "codentity-plugin",
+  "version": "1.0.0",
+  "description": "Base class for Codentity plugins",
+  "main": "lib/codentity-plugin.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Jack Stevens <jack@applyr.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.5.1"
+  }
+}
