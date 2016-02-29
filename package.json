@@ -1,6 +1,6 @@
 {
   "name": "codentity-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base class for Codentity plugins",
   "main": "lib/codentity-plugin.js",
   "scripts": {},
